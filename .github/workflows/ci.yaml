@@ -1,4 +1,4 @@
-name: Go Deployment CI
+name: Deployment CI
 
 on:
   push:
